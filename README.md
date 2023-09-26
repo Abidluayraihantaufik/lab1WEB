@@ -7,4 +7,4 @@ Kelas  : TI.22.A4
 ```
 # *1. Membuat Paragraf*
 Paragraf biasanya digunakan untuk mengelompokkan teks yang berhubungan menjadi satu unit atau blok.
-![](
+![](ss/Membuat%20Paragraf.PNG)
